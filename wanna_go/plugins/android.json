@@ -9,6 +9,12 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.hackkorea.wanna_go"
+        },
+        "cordova-plugin-sms": {
+            "PACKAGE_NAME": "com.hackkorea.wanna_go"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.hackkorea.wanna_go"
         }
     },
     "dependent_plugins": {}
